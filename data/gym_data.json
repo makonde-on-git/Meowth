@@ -434,7 +434,6 @@
 "Rzezalnia Miejska":{"coordinates":"50.049858,19.956619","is_ex":"No","can_be_ex":"No","districts":["podgórze"]},
 "Rzeźba w Parku Decjusza":{"coordinates":"50.065456,19.871786","is_ex":"Yes","can_be_ex":"Yes","districts":["pozostałe"]},
 "Sadowa/Kościuszki":{"coordinates":"49.988924,20.041962","is_ex":"Yes","can_be_ex":"Yes","districts":["pozostałe"]},
-"Saint Adalbert":{"coordinates":"50.060777,19.937773","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
 "Samolot 1008":{"coordinates":"50.078086,19.901949","is_ex":"No","can_be_ex":"No","districts":["bronowice"]},
 "Samolotowy Plac Zabaw":{"coordinates":"50.084399,20.004573","is_ex":"Yes","can_be_ex":"Yes","districts":["czyżyny"]},
 "Sanktuarium Bożego Miłosierdzi":{"coordinates":"50.019726,19.938006","is_ex":"No","can_be_ex":"No","districts":["łagiewniki-borek"]},
@@ -630,7 +629,10 @@
 "Plac Zabaw - Statek - nad Wilgą":{"coordinates":"50.033611,19.928183","is_ex":"No","can_be_ex":"No","districts":["łagiewniki-borek"]},
 "Tygrzyk paskowany, bukwica zwyczajna":{"coordinates":"50.037654,19.917803","is_ex":"No","can_be_ex":"No","districts":["dębniki"]},
 "Latarnia Umarłych na Czerwonych Makach":{"coordinates":"50.012333,19.88788","is_ex":"No","can_be_ex":"No","districts":["ruczaj"]},
-"Stary Portal":{"coordinates":"50.073254,19.93415","is_ex":"No","can_be_ex":"No","districts":["centrum"]}
+"Stary Portal":{"coordinates":"50.073254,19.93415","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
+"Kościół pw. św. Piotra i Pawła":{"coordinates":"50.05696,19.938619","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
+"Night Hunt":{"coordinates":"50.074882,19.893602","is_ex":"No","can_be_ex":"No","districts":["bronowice"]},
+"Piaskownica Kojec":{"coordinates":"50.008917,19.947329 ","is_ex":"No","can_be_ex":"No","districts":["podgórze-duchackie"]}
 },
 "443820658934153216":{
 "4 Clubs Fountain":{"coordinates":"50.055361,19.93251","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
@@ -1067,7 +1069,6 @@
 "Rzezalnia Miejska":{"coordinates":"50.049858,19.956619","is_ex":"No","can_be_ex":"No","districts":["podgórze"]},
 "Rzeźba w Parku Decjusza":{"coordinates":"50.065456,19.871786","is_ex":"Yes","can_be_ex":"Yes","districts":["pozostałe"]},
 "Sadowa/Kościuszki":{"coordinates":"49.988924,20.041962","is_ex":"Yes","can_be_ex":"Yes","districts":["pozostałe"]},
-"Saint Adalbert":{"coordinates":"50.060777,19.937773","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
 "Samolot 1008":{"coordinates":"50.078086,19.901949","is_ex":"No","can_be_ex":"No","districts":["bronowice"]},
 "Samolotowy Plac Zabaw":{"coordinates":"50.084399,20.004573","is_ex":"Yes","can_be_ex":"Yes","districts":["czyżyny"]},
 "Sanktuarium Bożego Miłosierdzi":{"coordinates":"50.019726,19.938006","is_ex":"No","can_be_ex":"No","districts":["łagiewniki-borek"]},
@@ -1263,7 +1264,10 @@
 "Plac Zabaw - Statek - nad Wilgą":{"coordinates":"50.033611,19.928183","is_ex":"No","can_be_ex":"No","districts":["łagiewniki-borek"]},
 "Tygrzyk paskowany, bukwica zwyczajna":{"coordinates":"50.037654,19.917803","is_ex":"No","can_be_ex":"No","districts":["dębniki"]},
 "Latarnia Umarłych na Czerwonych Makach":{"coordinates":"50.012333,19.88788","is_ex":"No","can_be_ex":"No","districts":["ruczaj"]},
-"Stary Portal":{"coordinates":"50.073254,19.93415","is_ex":"No","can_be_ex":"No","districts":["centrum"]}
+"Stary Portal":{"coordinates":"50.073254,19.93415","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
+"Kościół pw. św. Piotra i Pawła":{"coordinates":"50.05696,19.938619","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
+"Night Hunt":{"coordinates":"50.074882,19.893602","is_ex":"No","can_be_ex":"No","districts":["bronowice"]},
+"Piaskownica Kojec":{"coordinates":"50.008917,19.947329 ","is_ex":"No","can_be_ex":"No","districts":["podgórze-duchackie"]}
 },
 "393378906788331520":{
 "Sue Ryder":{"coordinates":"54.5082019,18.5437417","is_ex":"Yes","can_be_ex":"Yes","districts":["centrum"]},
@@ -1554,13 +1558,13 @@
 "Plac Zabaw (Wenedów zachód)":{"coordinates":"54.179071,16.177628","is_ex":"Yes","can_be_ex":"Yes","districts":["południe"]},
 "Placyk Zabaw (Wenedów wschód)":{"coordinates":"54.17813,16.179774","is_ex":"No","can_be_ex":"No","districts":["południe"]},
 "Seminarium":{"coordinates":"54.163888,16.19769","is_ex":"No","can_be_ex":"No","districts":["południe"]},
-"Transporter Opancerzony Jas":{"coordinates":"54.183166,16.180748","is_ex":"Yes","can_be_ex":"Yes","districts":["południe"]},
+"Poczta Bosmańska":{"coordinates":"54.2057778,16.1610278","is_ex":"No","can_be_ex":"No","districts":["morska"]},
 "Witacz pozdrawiacz":{"coordinates":"54.17002,16.206974","is_ex":"No","can_be_ex":"No","districts":["południe"]},
 "Zwycięskiej Armii Radziecjkiej":{"coordinates":"54.174535,16.200446","is_ex":"No","can_be_ex":"No","districts":["południe"]},
 "Poczta polska":{"coordinates":"54.203841,16.190437","is_ex":"No","can_be_ex":"No","districts":["północ"]},
 "Dawna Cieplownia":{"coordinates":"54.201227,16.191639","is_ex":"No","can_be_ex":"No","districts":["północ"]},
 "Dekalog":{"coordinates":"54.206688,16.190104","is_ex":"No","can_be_ex":"No","districts":["północ"]},
-"Fontanna (Emka)":{"coordinates":"54.206551,16.185025","is_ex":"No","can_be_ex":"No","districts":["północ"]},
+"Plac Zabaw (była Emka)":{"coordinates":"54.20829,16.186872","is_ex":"Yes","can_be_ex":"Yes","districts":["północ"]},
 "Fontanna Przy Aquaparku ":{"coordinates":"54.205732,16.208655","is_ex":"No","can_be_ex":"No","districts":["północ"]},
 "Hala widowiskowo sportowa":{"coordinates":"54.206584,16.200531","is_ex":"No","can_be_ex":"No","districts":["północ"]},
 "Kosciol Ducha swietego":{"coordinates":"54.206228,16.189728","is_ex":"No","can_be_ex":"No","districts":["północ"]},
@@ -1602,9 +1606,19 @@
 "Plac Zabaw (Sianów)":{"coordinates":"54.227024,16.295874","is_ex":"Yes","can_be_ex":"Yes","districts":["sianów"]},
 "Dłonie":{"coordinates":"54.226878,16.295321","is_ex":"Yes","can_be_ex":"Yes","districts":["sianów"]},
 "Krzyż na Rozdrożu":{"coordinates":"54.230715,16.306372","is_ex":"No","can_be_ex":"No","districts":["sianów"]},
-"Jesion wyniosły":{"coordinates":"54.188316,16.183585","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
-"Elektrownia Atomowa":{"coordinates":"54.194134,16.188585","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
+"Jesion wyniosły":{"coordinates":"54.188316,16.183585","is_ex":"Yes","can_be_ex":"Yes","districts":["centrum"]},
+"Elektrownia Atomowa":{"coordinates":"54.194134,16.188585","is_ex":"Yes","can_be_ex":"Yes","districts":["centrum"]},
 "Drzewostany nasienne":{"coordinates":"54.202529,16.239325","is_ex":"No","can_be_ex":"No","districts":["wschód"]},
-"Plac Zabaw (Kwiatkowskiego)":{"coordinates":"54.204772,16.175906","is_ex":"No","can_be_ex":"No","districts":["północ"]}
+"Plac Zabaw (Kwiatkowskiego)":{"coordinates":"54.204772,16.175906","is_ex":"No","can_be_ex":"No","districts":["północ"]},
+"Rajska plaża":{"coordinates":"54.203334,16.159702","is_ex":"No","can_be_ex":"No","districts":["morska"]},
+"Plac zabaw - Unia":{"coordinates":"54.215548,16.177284","is_ex":"No","can_be_ex":"No","districts":["północ"]},
+"Orlik na osiedlu Unii Europejskiej":{"coordinates":"54.218464,16.171211","is_ex":"No","can_be_ex":"No","districts":["północ"]},
+"Kościów pw. św. Matki Teresy z Kalkuty":{"coordinates":"54.219227,16.175961","is_ex":"No","can_be_ex":"No","districts":["północ"]},
+"Krzyż":{"coordinates":"54.185075,16.170521","is_ex":"No","can_be_ex":"No","districts":["zachód"]},
+"Przymulacze":{"coordinates":"54.198034,16.173141","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
+"Boisko do Koszykówki - Żytnia":{"coordinates":"54.163379,16.180084","is_ex":"No","can_be_ex":"No","districts":["południe"]},
+"Plac Zabaw (Zientarskiego)":{"coordinates":"54.19227,16.209331","is_ex":"No","can_be_ex":"No","districts":["wschód"]},
+"Niedźwiedzie":{"coordinates":"54.1811944,16.1735278","is_ex":"No","can_be_ex":"No","districts":["południe"]},
+"Plac zabaw na Miłej":{"coordinates":"54.1891667,16.152527","is_ex":"No","can_be_ex":"No","districts":["morska"]}
 }
 }
