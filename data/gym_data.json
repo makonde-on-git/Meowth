@@ -111,7 +111,6 @@
 "Fontanna Ze Smokiem":{"coordinates":"50.063648,19.983358","is_ex":"No","can_be_ex":"No","districts":["grzegórzki"]},
 "Fort 41a Mydlniki":{"coordinates":"50.084826,19.861983","is_ex":"No","can_be_ex":"No","districts":["pozostałe"]},
 "Fort 47 1/2 Sudół":{"coordinates":"50.102882,19.985461","is_ex":"No","can_be_ex":"No","districts":["olsza"]},
-"Fort Borek 52":{"coordinates":"50.000626,19.903475","is_ex":"No","can_be_ex":"No","districts":["łagiewniki-borek"]},
 "Fort Lasówka 51a":{"coordinates":"50.043214,20.015478","is_ex":"No","can_be_ex":"No","districts":["płaszów"]},
 "Fort nr 50 Prokocim brama gł":{"coordinates":"50.010542,19.9967","is_ex":"No","can_be_ex":"No","districts":["bieżanów-prokocim"]},
 "Fort Pancerny Główny 47a Węgrzce":{"coordinates":"50.115698,19.966587","is_ex":"No","can_be_ex":"No","districts":["pozostałe"]},
@@ -610,7 +609,7 @@
 "Monument at Czerwone Maki Cemetery":{"coordinates":"50.012504,19.888566","is_ex":"No","can_be_ex":"No","districts":["ruczaj"]},
 "Drewniany Zamek":{"coordinates":"50.104321,20.012911","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"]},
 "Panienka Z Pudełka":{"coordinates":"50.090239,20.021405","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"]},
-"Muchomory":{"coordinates":"50.070983,20.035667","is_ex":"No","can_be_ex":"No","districts":["nowa-huta"]},
+"Muchomory":{"coordinates":"50.070983,20.035667","is_ex":"Yes","can_be_ex":"Yes","districts":["nowa-huta"]},
 "Plac Zabaw za Kościołem":{"coordinates":"50.074797,19.977956","is_ex":"No","can_be_ex":"No","districts":["olsza"]},
 "Ptasia Tablica Las Wolski":{"coordinates":"50.061572,19.854678","is_ex":"No","can_be_ex":"No","districts":["pozostałe"]},
 "Altana Na Polanie Wobra":{"coordinates":"50.057735,19.857618","is_ex":"No","can_be_ex":"No","districts":["pozostałe"]},
@@ -634,7 +633,12 @@
 "Piaskownica Kojec":{"coordinates":"50.008917,19.947329 ","is_ex":"No","can_be_ex":"No","districts":["podgórze-duchackie"]},
 "Shrine on Ruczaj Street":{"coordinates":"50.02557,19.921803","is_ex":"Yes","can_be_ex":"Yes","districts":["ruczaj"],"notes":"Zgłoszone przez PaniOwca"},
 "Pomnik Syrenki, Kolorowe":{"coordinates":"50.075814,20.029566","is_ex":"Yes","can_be_ex":"Yes","districts":["nowa-huta"],"notes":"Zgłoszone przez LucasKumiega"},
-"Nowy Placyk":{"coordinates":"50.088436,20.016851","is_ex":"Yes","can_be_ex":"Yes","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"}
+"Nowy Placyk":{"coordinates":"50.088436,20.016851","is_ex":"Yes","can_be_ex":"Yes","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
+"Stół Ping-Pongowy przy ulicy Popielidów":{"coordinates":"50.098433,20.016109","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
+"Fort Piechoty Twierdzy Kraków":{"coordinates":"50.092768,20.039851","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
+"Pętla Autobusowa "Mistrzejowice"":{"coordinates":"50.09598,19.995381","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
+"Orzechowy Plac Zabaw":{"coordinates":"50.093833,19.985929","is_ex":"Yes","can_be_ex":"Yes","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
+"Karczma Pod Blachą":{"coordinates":"50.063297,19.902259","is_ex":"No","can_be_ex":"No","districts":["łobzów"],"notes":"Zgłoszone przez foowcio"}
 },
 "443820658934153216":{
 "4 Clubs Fountain":{"coordinates":"50.055361,19.93251","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
@@ -748,7 +752,6 @@
 "Fontanna Ze Smokiem":{"coordinates":"50.063648,19.983358","is_ex":"No","can_be_ex":"No","districts":["grzegórzki"]},
 "Fort 41a Mydlniki":{"coordinates":"50.084826,19.861983","is_ex":"No","can_be_ex":"No","districts":["pozostałe"]},
 "Fort 47 1/2 Sudół":{"coordinates":"50.102882,19.985461","is_ex":"No","can_be_ex":"No","districts":["olsza"]},
-"Fort Borek 52":{"coordinates":"50.000626,19.903475","is_ex":"No","can_be_ex":"No","districts":["łagiewniki-borek"]},
 "Fort Lasówka 51a":{"coordinates":"50.043214,20.015478","is_ex":"No","can_be_ex":"No","districts":["płaszów"]},
 "Fort nr 50 Prokocim brama gł":{"coordinates":"50.010542,19.9967","is_ex":"No","can_be_ex":"No","districts":["bieżanów-prokocim"]},
 "Fort Pancerny Główny 47a Węgrzce":{"coordinates":"50.115698,19.966587","is_ex":"No","can_be_ex":"No","districts":["pozostałe"]},
@@ -1247,7 +1250,7 @@
 "Monument at Czerwone Maki Cemetery":{"coordinates":"50.012504,19.888566","is_ex":"No","can_be_ex":"No","districts":["ruczaj"]},
 "Drewniany Zamek":{"coordinates":"50.104321,20.012911","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"]},
 "Panienka Z Pudełka":{"coordinates":"50.090239,20.021405","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"]},
-"Muchomory":{"coordinates":"50.070983,20.035667","is_ex":"No","can_be_ex":"No","districts":["nowa-huta"]},
+"Muchomory":{"coordinates":"50.070983,20.035667","is_ex":"Yes","can_be_ex":"Yes","districts":["nowa-huta"]},
 "Plac Zabaw za Kościołem":{"coordinates":"50.074797,19.977956","is_ex":"No","can_be_ex":"No","districts":["olsza"]},
 "Ptasia Tablica Las Wolski":{"coordinates":"50.061572,19.854678","is_ex":"No","can_be_ex":"No","districts":["pozostałe"]},
 "Altana Na Polanie Wobra":{"coordinates":"50.057735,19.857618","is_ex":"No","can_be_ex":"No","districts":["pozostałe"]},
@@ -1271,7 +1274,12 @@
 "Piaskownica Kojec":{"coordinates":"50.008917,19.947329 ","is_ex":"No","can_be_ex":"No","districts":["podgórze-duchackie"]},
 "Shrine on Ruczaj Street":{"coordinates":"50.02557,19.921803","is_ex":"Yes","can_be_ex":"Yes","districts":["ruczaj"],"notes":"Zgłoszone przez PaniOwca"},
 "Pomnik Syrenki, Kolorowe":{"coordinates":"50.075814,20.029566","is_ex":"Yes","can_be_ex":"Yes","districts":["nowa-huta"],"notes":"Zgłoszone przez LucasKumiega"},
-"Nowy Placyk":{"coordinates":"50.088436,20.016851","is_ex":"Yes","can_be_ex":"Yes","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"}
+"Nowy Placyk":{"coordinates":"50.088436,20.016851","is_ex":"Yes","can_be_ex":"Yes","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
+"Stół Ping-Pongowy przy ulicy Popielidów":{"coordinates":"50.098433,20.016109","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
+"Fort Piechoty Twierdzy Kraków":{"coordinates":"50.092768,20.039851","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
+"Pętla Autobusowa "Mistrzejowice"":{"coordinates":"50.09598,19.995381","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
+"Orzechowy Plac Zabaw":{"coordinates":"50.093833,19.985929","is_ex":"Yes","can_be_ex":"Yes","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
+"Karczma Pod Blachą":{"coordinates":"50.063297,19.902259","is_ex":"No","can_be_ex":"No","districts":["łobzów"],"notes":"Zgłoszone przez foowcio"}
 },
 "393378906788331520":{
 "Sue Ryder":{"coordinates":"54.5082019,18.5437417","is_ex":"Yes","can_be_ex":"Yes","districts":["centrum"]},
