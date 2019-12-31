@@ -451,9 +451,7 @@
 "Smok Wawelski":{"coordinates":"50.053001,19.933588","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
 "Smok Wawrzyńca 86":{"coordinates":"50.051121,19.951152","is_ex":"No","can_be_ex":"No","districts":["podgórze"]},
 "Smoki Przed Aquaparkiem":{"coordinates":"50.089545,19.982796","is_ex":"No","can_be_ex":"No","districts":["olsza"]},
-"""Smokowa Hustawka"":{""coordinates"":""50.098729,20.005257"",""is_ex"":""Yes
-"",""can_be_ex"":""Yes
-"",""districts"":[""mistrzejowice""]},"
+"Smokowa Hustawka":{"coordinates":"50.098729,20.005257","is_ex":"Yes","can_be_ex":"Yes","districts":["mistrzejowice"]},
 "Solidarnosc Memorial":{"coordinates":"50.094456,19.997294","is_ex":"Yes","can_be_ex":"Yes","districts":["mistrzejowice"],"notes":"Zgłoszone przez usiolud"},
 "Sonar Kodak":{"coordinates":"50.075846,20.017083","is_ex":"No","can_be_ex":"No","districts":["czyżyny"]},
 "Sphere of Quattro Business Park":{"coordinates":"50.087,19.975624","is_ex":"No","can_be_ex":"No","districts":["olsza"]},
@@ -1128,9 +1126,7 @@
 "Smok Wawelski":{"coordinates":"50.053001,19.933588","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
 "Smok Wawrzyńca 86":{"coordinates":"50.051121,19.951152","is_ex":"No","can_be_ex":"No","districts":["podgórze"]},
 "Smoki Przed Aquaparkiem":{"coordinates":"50.089545,19.982796","is_ex":"No","can_be_ex":"No","districts":["olsza"]},
-"""Smokowa Hustawka"":{""coordinates"":""50.098729,20.005257"",""is_ex"":""Yes
-"",""can_be_ex"":""Yes
-"",""districts"":[""mistrzejowice""]},"
+"Smokowa Hustawka":{"coordinates":"50.098729,20.005257","is_ex":"Yes","can_be_ex":"Yes","districts":["mistrzejowice"]},
 "Solidarnosc Memorial":{"coordinates":"50.094456,19.997294","is_ex":"Yes","can_be_ex":"Yes","districts":["mistrzejowice"],"notes":"Zgłoszone przez usiolud"},
 "Sonar Kodak":{"coordinates":"50.075846,20.017083","is_ex":"No","can_be_ex":"No","districts":["czyżyny"]},
 "Sphere of Quattro Business Park":{"coordinates":"50.087,19.975624","is_ex":"No","can_be_ex":"No","districts":["olsza"]},
