@@ -37,7 +37,7 @@
 "Bogdanowi Włosikowi Monument":{"coordinates":"50.084029,20.029157","is_ex":"No","can_be_ex":"No","districts":["nowa-huta"]},
 "Bridge":{"coordinates":"50.088184,19.887501","is_ex":"No","can_be_ex":"No","districts":["bronowice"]},
 "Budynek JP":{"coordinates":"50.093845,19.893375","is_ex":"No","can_be_ex":"No","districts":["bronowice"]},
-"Building Bird":{"coordinates":"50.056075,19.92404","is_ex":"No","can_be_ex":"No","districts":["salwator"]},
+"Czapla":{"coordinates":"50.056075,19.92404","is_ex":"No","can_be_ex":"No","districts":["salwator"]},
 "Buma Square":{"coordinates":"50.032875,19.93896","is_ex":"No","can_be_ex":"No","districts":["łagiewniki-borek"]},
 "C.B.B.B":{"coordinates":"50.080552,19.892754","is_ex":"No","can_be_ex":"No","districts":["bronowice"]},
 "Cascada":{"coordinates":"50.018359,19.905235","is_ex":"No","can_be_ex":"No","districts":["ruczaj"]},
@@ -131,7 +131,7 @@
 "Grobowiec Żydowski Kraków":{"coordinates":"50.054052,19.950043","is_ex":"No","can_be_ex":"No","districts":["podgórze"]},
 "Grób Jan Kaz. Przerwa-Tetmajer":{"coordinates":"50.095039,19.874722","is_ex":"No","can_be_ex":"No","districts":["pozostałe"]},
 "Hajdpark Kurdwanów":{"coordinates":"50.010246,19.953902","is_ex":"Yes","can_be_ex":"Yes","districts":["podgórze-duchackie"]},
-"Tauron Arena Kraków":{"coordinates":"50.067935,19.993164","is_ex":"No","can_be_ex":"No","districts":["czyżyny"]},
+"Tauron Arena Kraków":{"coordinates":"50.067935,19.993164","is_ex":"Yes","can_be_ex":"Yes","districts":["czyżyny"]},
 "Harley Davidson":{"coordinates":"50.024483,19.910555","is_ex":"No","can_be_ex":"No","districts":["ruczaj"]},
 "Heart of Steel":{"coordinates":"50.019763,19.993714","is_ex":"No","can_be_ex":"No","districts":["bieżanów-prokocim"]},
 "Hotel Forum":{"coordinates":"50.045202,19.935083","is_ex":"Yes","can_be_ex":"Yes","districts":["podgórze","dębniki"]},
@@ -300,7 +300,9 @@
 "Mur Art":{"coordinates":"50.072482,20.047587","is_ex":"No","can_be_ex":"No","districts":["nowa-huta"]},
 "Mural Alien":{"coordinates":"50.035596,19.966041","is_ex":"No","can_be_ex":"No","districts":["podgórze-duchackie"]},
 "Mural Kwiaciarnia":{"coordinates":"50.086382,20.008658","is_ex":"No","can_be_ex":"No","districts":["czyżyny","mistrzejowice"]},
-"Mural Nowa Huta Rekin":{"coordinates":"50.085019,20.008911","is_ex":"No","can_be_ex":"No","districts":["czyżyny"]},
+"""Mural Nowa Huta Rekin"":{""coordinates"":""50.085019,20.008911"",""is_ex"":""Yes
+"",""can_be_ex"":""Yes
+"",""districts"":[""czyżyny""]},"
 "Skrzydło Lotnicze":{"coordinates":"50.073718,19.989117","is_ex":"No","can_be_ex":"No","districts":["czyżyny"]},
 "Mural Pajak":{"coordinates":"50.079958,20.013049","is_ex":"No","can_be_ex":"No","districts":["czyżyny"]},
 "Mural Schody Ruchome":{"coordinates":"50.066478,19.94847","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
@@ -359,7 +361,9 @@
 "Plac Zabaw Przy ul. Siewnej":{"coordinates":"50.091995,19.956151","is_ex":"Yes","can_be_ex":"Yes","districts":["prądnik"]},
 "Plac Zabaw Raciborska":{"coordinates":"50.020544,19.903951","is_ex":"Yes","can_be_ex":"Yes","districts":["ruczaj"]},
 "Place Zabaw":{"coordinates":"50.011267,20.017034","is_ex":"No","can_be_ex":"No","districts":["bieżanów-prokocim"]},
-"Plac Zabaw Os. Kościuszkowskie":{"coordinates":"50.083005,20.012997","is_ex":"No","can_be_ex":"No","districts":["czyżyny"]},
+"""Plac Zabaw Os. Kościuszkowskie"":{""coordinates"":""50.083005,20.012997"",""is_ex"":""Yes
+"",""can_be_ex"":""Yes
+"",""districts"":[""czyżyny""]},"
 "Playground (koło Nowosądeckiej)":{"coordinates":"50.017883,19.97261","is_ex":"Yes","can_be_ex":"Yes","districts":["podgórze-duchackie"]},
 "Playground in Park Jerzmanowskich":{"coordinates":"50.017765,19.994669","is_ex":"Yes","can_be_ex":"Yes","districts":["bieżanów-prokocim"]},
 "Płaskorzeźba Kobiety":{"coordinates":"50.068108,19.929005","is_ex":"No","can_be_ex":"No","districts":["centrum"],"notes":"Włości Makonde"},
@@ -451,7 +455,9 @@
 "Smok Wawelski":{"coordinates":"50.053001,19.933588","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
 "Smok Wawrzyńca 86":{"coordinates":"50.051121,19.951152","is_ex":"No","can_be_ex":"No","districts":["podgórze"]},
 "Smoki Przed Aquaparkiem":{"coordinates":"50.089545,19.982796","is_ex":"No","can_be_ex":"No","districts":["olsza"]},
-"Smokowa Hustawka":{"coordinates":"50.098729,20.005257","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"]},
+"""Smokowa Hustawka"":{""coordinates"":""50.098729,20.005257"",""is_ex"":""Yes
+"",""can_be_ex"":""Yes
+"",""districts"":[""mistrzejowice""]},"
 "Solidarnosc Memorial":{"coordinates":"50.094456,19.997294","is_ex":"Yes","can_be_ex":"Yes","districts":["mistrzejowice"],"notes":"Zgłoszone przez usiolud"},
 "Sonar Kodak":{"coordinates":"50.075846,20.017083","is_ex":"No","can_be_ex":"No","districts":["czyżyny"]},
 "Sphere of Quattro Business Park":{"coordinates":"50.087,19.975624","is_ex":"No","can_be_ex":"No","districts":["olsza"]},
@@ -623,7 +629,7 @@
 "Night Hunt":{"coordinates":"50.074882,19.893602","is_ex":"Yes","can_be_ex":"Yes","districts":["bronowice"]},
 "Piaskownica Kojec":{"coordinates":"50.008917,19.947329 ","is_ex":"No","can_be_ex":"No","districts":["podgórze-duchackie"]},
 "Shrine on Ruczaj Street":{"coordinates":"50.02557,19.921803","is_ex":"Yes","can_be_ex":"Yes","districts":["ruczaj"],"notes":"Zgłoszone przez PaniOwca"},
-"Pomnik Syrenki Kolorowe":{"coordinates":"50.075814,20.029566","is_ex":"Yes","can_be_ex":"Yes","districts":["nowa-huta"],"notes":"Zgłoszone przez LucasKumiega"},
+"Syrenka":{"coordinates":"50.075814,20.029566","is_ex":"Yes","can_be_ex":"Yes","districts":["nowa-huta"],"notes":"Zgłoszone przez LucasKumiega"},
 "Nowy Placyk":{"coordinates":"50.088436,20.016851","is_ex":"Yes","can_be_ex":"Yes","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
 "Stół Ping-Pongowy przy ulicy Popielidów":{"coordinates":"50.098433,20.016109","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
 "Fort Piechoty Twierdzy Kraków":{"coordinates":"50.092768,20.039851","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
@@ -634,7 +640,7 @@
 "Stół Ping-Pongowy Os. Na Wzgórzach":{"coordinates":"50.098557,20.06206","is_ex":"No","can_be_ex":"No","districts":["nowa-huta"],"notes":"Zgłoszone przez zwinkavin"},
 "Dům s lodí":{"coordinates":"50.053764,19.943766","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
 "Krzyż Znak":{"coordinates":"50.049009,19.936408","is_ex":"Yes","can_be_ex":"Yes","districts":["dębniki"],"notes":"Zgłoszone przez ketoor/BorysIvanowicz"},
-"Boisko Sportowe":{"coordinates":"50.07765,20.055128","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
+"Boisko Sportowe":{"coordinates":"50.07765,20.055128","is_ex":"No","can_be_ex":"No","districts":["nowa-huta"],"notes":"Zgłoszone przez LucasKumiega"},
 "Globe at Cracow Main Train Station":{"coordinates":"50.068352,19.947165","is_ex":"No","can_be_ex":"No","districts":["centrum"],"notes":"Zgłoszone przez MrMirkwood"},
 "Rampa":{"coordinates":"50.066806,20.041966","is_ex":"Yes","can_be_ex":"Yes","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
 "Street Art Ku Pamięci":{"coordinates":"50.092705,19.97443","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
@@ -649,8 +655,8 @@
 "Kraków - Kapliczka":{"coordinates":"50.083065,19.971633","is_ex":"No","can_be_ex":"No","districts":["olsza"],"notes":"Zgłoszone przez GardzeEXPem"},
 "Plac Zabaw Lubostron Szwai 1":{"coordinates":"50.01584,19.895192","is_ex":"Yes","can_be_ex":"Yes","districts":["ruczaj"],"notes":"Zgłoszone przez Pepe999541"},
 "Plac Zabaw na 2 Pułku Lotniczego":{"coordinates":"50.076985,20.00609","is_ex":"Yes","can_be_ex":"Yes","districts":["czyżyny"],"notes":"Zgłoszone przez LucasKumiega"},
-"Plac Zabaw Przy Ulicy Adama Próchnika":{"coordinates":"50.101237,20.007048","is_ex":"No","can_be_ex":"No","districts":["nowa-huta"],"notes":"Zgłoszone przez LucasKumiega"},
-"Children House":{"coordinates":"50.070789,20.033463","is_ex":"No","can_be_ex":"No","districts":["nowa-huta"],"notes":"Zgłoszone przez LucasKumiega"},
+"Plac Zabaw Przy Ulicy Adama Próchnika":{"coordinates":"50.101237,20.007048","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
+"Children House":{"coordinates":"50.070789,20.033463","is_ex":"Yes","can_be_ex":"Yes","districts":["nowa-huta"],"notes":"Zgłoszone przez LucasKumiega"},
 "Poczta Beskidzka":{"coordinates":"50.015906,19.950629","is_ex":"No","can_be_ex":"No","districts":["łagiewniki-borek"],"notes":"Zgłoszone przez ham1solo"},
 "Dworek Z Wieza":{"coordinates":"50.050588,19.917917","is_ex":"No","can_be_ex":"No","districts":["dębniki"],"notes":"Zgłoszone przez BorysIvanowicz"},
 "Zakon Sióstr":{"coordinates":"50.061309,19.962445","is_ex":"No","can_be_ex":"No","districts":["grzegórzki"],"notes":"Zgłoszone przez CurtieChan"},
@@ -662,9 +668,17 @@
 "Kościół Polskokatolicki":{"coordinates":"50.083521,19.968562","is_ex":"No","can_be_ex":"No","districts":["olsza"],"notes":"Zgłoszone przez GardzeEXPem"},
 "Ogród Prehistoryczny":{"coordinates":"50.093692,20.056469","is_ex":"No","can_be_ex":"No","districts":["nowa-huta"],"notes":"Zgłoszone przez Michal221288"},
 "Graffity Wall NH Kombatantow 1D Krakow":{"coordinates":"50.090778,20.007133","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
-"Stolik Strategów, 2 Płk Lotnjczego":{"coordinates":"50.07497,20.011694","is_ex":"Yes","can_be_ex":"Yes","districts":["czyżyny"],"notes":"Zgłoszone przez LucasKumiega"},
+"Stolik Strategów, 2 Płk Lotniczego":{"coordinates":"50.07497,20.011694","is_ex":"Yes","can_be_ex":"Yes","districts":["czyżyny"],"notes":"Zgłoszone przez LucasKumiega"},
 "Mural Pod Ziemia - Hot Spot":{"coordinates":"50.073076,20.016752","is_ex":"No","can_be_ex":"No","districts":["czyżyny"],"notes":"Zgłoszone przez Michal221288"},
-"Galeria Kraków Plaza":{"coordinates":"50.064181,19.983864","is_ex":"No","can_be_ex":"No","districts":["grzegórzki"],"notes":"Zgłoszone przez LucasKumiega"}
+"Galeria Kraków Plaza":{"coordinates":"50.064181,19.983864","is_ex":"No","can_be_ex":"No","districts":["grzegórzki"],"notes":"Zgłoszone przez LucasKumiega"},
+"Basen AGH":{"coordinates":"50.068756,19.901541","is_ex":"No","can_be_ex":"No","districts":["bronowice","łobzów"]},
+"Warta Mural":{"coordinates":"50.090803,19.928801","is_ex":"No","can_be_ex":"No","districts":["krowodrza"]},
+"Stacja Rowerowa - Narzymskiego II":{"coordinates":"50.073496,19.965832","is_ex":"No","can_be_ex":"No","districts":["olsza"]},
+"Topole Szafera":{"coordinates":"50.065739,19.957961","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
+"Witraż kaplicy w hospicjum":{"coordinates":"50.084846,20.031692","is_ex":"No","can_be_ex":"No","districts":["nowa-huta"]},
+"Ku Wiecznej Chwale":{"coordinates":"50.03466,19.974466","is_ex":"No","can_be_ex":"No","districts":["bieżanów-prokocim"],"notes":"Zgłoszone przez MrMirkwood"},
+"Urząd Pocztowy Kraków 31":{"coordinates":"50.08173,20.004913","is_ex":"No","can_be_ex":"No","districts":["czyżyny"]},
+"Boiska Do Koszykówki":{"coordinates":"50.089262,19.965622","is_ex":"No","can_be_ex":"No","districts":["olsza"]}
 },
 "443820658934153216":{
 "4 Clubs Fountain":{"coordinates":"50.055361,19.93251","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
@@ -704,7 +718,7 @@
 "Bogdanowi Włosikowi Monument":{"coordinates":"50.084029,20.029157","is_ex":"No","can_be_ex":"No","districts":["nowa-huta"]},
 "Bridge":{"coordinates":"50.088184,19.887501","is_ex":"No","can_be_ex":"No","districts":["bronowice"]},
 "Budynek JP":{"coordinates":"50.093845,19.893375","is_ex":"No","can_be_ex":"No","districts":["bronowice"]},
-"Building Bird":{"coordinates":"50.056075,19.92404","is_ex":"No","can_be_ex":"No","districts":["salwator"]},
+"Czapla":{"coordinates":"50.056075,19.92404","is_ex":"No","can_be_ex":"No","districts":["salwator"]},
 "Buma Square":{"coordinates":"50.032875,19.93896","is_ex":"No","can_be_ex":"No","districts":["łagiewniki-borek"]},
 "C.B.B.B":{"coordinates":"50.080552,19.892754","is_ex":"No","can_be_ex":"No","districts":["bronowice"]},
 "Cascada":{"coordinates":"50.018359,19.905235","is_ex":"No","can_be_ex":"No","districts":["ruczaj"]},
@@ -798,7 +812,7 @@
 "Grobowiec Żydowski Kraków":{"coordinates":"50.054052,19.950043","is_ex":"No","can_be_ex":"No","districts":["podgórze"]},
 "Grób Jan Kaz. Przerwa-Tetmajer":{"coordinates":"50.095039,19.874722","is_ex":"No","can_be_ex":"No","districts":["pozostałe"]},
 "Hajdpark Kurdwanów":{"coordinates":"50.010246,19.953902","is_ex":"Yes","can_be_ex":"Yes","districts":["podgórze-duchackie"]},
-"Tauron Arena Kraków":{"coordinates":"50.067935,19.993164","is_ex":"No","can_be_ex":"No","districts":["czyżyny"]},
+"Tauron Arena Kraków":{"coordinates":"50.067935,19.993164","is_ex":"Yes","can_be_ex":"Yes","districts":["czyżyny"]},
 "Harley Davidson":{"coordinates":"50.024483,19.910555","is_ex":"No","can_be_ex":"No","districts":["ruczaj"]},
 "Heart of Steel":{"coordinates":"50.019763,19.993714","is_ex":"No","can_be_ex":"No","districts":["bieżanów-prokocim"]},
 "Hotel Forum":{"coordinates":"50.045202,19.935083","is_ex":"Yes","can_be_ex":"Yes","districts":["podgórze","dębniki"]},
@@ -967,7 +981,9 @@
 "Mur Art":{"coordinates":"50.072482,20.047587","is_ex":"No","can_be_ex":"No","districts":["nowa-huta"]},
 "Mural Alien":{"coordinates":"50.035596,19.966041","is_ex":"No","can_be_ex":"No","districts":["podgórze-duchackie"]},
 "Mural Kwiaciarnia":{"coordinates":"50.086382,20.008658","is_ex":"No","can_be_ex":"No","districts":["czyżyny","mistrzejowice"]},
-"Mural Nowa Huta Rekin":{"coordinates":"50.085019,20.008911","is_ex":"No","can_be_ex":"No","districts":["czyżyny"]},
+"""Mural Nowa Huta Rekin"":{""coordinates"":""50.085019,20.008911"",""is_ex"":""Yes
+"",""can_be_ex"":""Yes
+"",""districts"":[""czyżyny""]},"
 "Skrzydło Lotnicze":{"coordinates":"50.073718,19.989117","is_ex":"No","can_be_ex":"No","districts":["czyżyny"]},
 "Mural Pajak":{"coordinates":"50.079958,20.013049","is_ex":"No","can_be_ex":"No","districts":["czyżyny"]},
 "Mural Schody Ruchome":{"coordinates":"50.066478,19.94847","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
@@ -1026,7 +1042,9 @@
 "Plac Zabaw Przy ul. Siewnej":{"coordinates":"50.091995,19.956151","is_ex":"Yes","can_be_ex":"Yes","districts":["prądnik"]},
 "Plac Zabaw Raciborska":{"coordinates":"50.020544,19.903951","is_ex":"Yes","can_be_ex":"Yes","districts":["ruczaj"]},
 "Place Zabaw":{"coordinates":"50.011267,20.017034","is_ex":"No","can_be_ex":"No","districts":["bieżanów-prokocim"]},
-"Plac Zabaw Os. Kościuszkowskie":{"coordinates":"50.083005,20.012997","is_ex":"No","can_be_ex":"No","districts":["czyżyny"]},
+"""Plac Zabaw Os. Kościuszkowskie"":{""coordinates"":""50.083005,20.012997"",""is_ex"":""Yes
+"",""can_be_ex"":""Yes
+"",""districts"":[""czyżyny""]},"
 "Playground (koło Nowosądeckiej)":{"coordinates":"50.017883,19.97261","is_ex":"Yes","can_be_ex":"Yes","districts":["podgórze-duchackie"]},
 "Playground in Park Jerzmanowskich":{"coordinates":"50.017765,19.994669","is_ex":"Yes","can_be_ex":"Yes","districts":["bieżanów-prokocim"]},
 "Płaskorzeźba Kobiety":{"coordinates":"50.068108,19.929005","is_ex":"No","can_be_ex":"No","districts":["centrum"],"notes":"Włości Makonde"},
@@ -1118,7 +1136,9 @@
 "Smok Wawelski":{"coordinates":"50.053001,19.933588","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
 "Smok Wawrzyńca 86":{"coordinates":"50.051121,19.951152","is_ex":"No","can_be_ex":"No","districts":["podgórze"]},
 "Smoki Przed Aquaparkiem":{"coordinates":"50.089545,19.982796","is_ex":"No","can_be_ex":"No","districts":["olsza"]},
-"Smokowa Hustawka":{"coordinates":"50.098729,20.005257","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"]},
+"""Smokowa Hustawka"":{""coordinates"":""50.098729,20.005257"",""is_ex"":""Yes
+"",""can_be_ex"":""Yes
+"",""districts"":[""mistrzejowice""]},"
 "Solidarnosc Memorial":{"coordinates":"50.094456,19.997294","is_ex":"Yes","can_be_ex":"Yes","districts":["mistrzejowice"],"notes":"Zgłoszone przez usiolud"},
 "Sonar Kodak":{"coordinates":"50.075846,20.017083","is_ex":"No","can_be_ex":"No","districts":["czyżyny"]},
 "Sphere of Quattro Business Park":{"coordinates":"50.087,19.975624","is_ex":"No","can_be_ex":"No","districts":["olsza"]},
@@ -1290,7 +1310,7 @@
 "Night Hunt":{"coordinates":"50.074882,19.893602","is_ex":"Yes","can_be_ex":"Yes","districts":["bronowice"]},
 "Piaskownica Kojec":{"coordinates":"50.008917,19.947329 ","is_ex":"No","can_be_ex":"No","districts":["podgórze-duchackie"]},
 "Shrine on Ruczaj Street":{"coordinates":"50.02557,19.921803","is_ex":"Yes","can_be_ex":"Yes","districts":["ruczaj"],"notes":"Zgłoszone przez PaniOwca"},
-"Pomnik Syrenki Kolorowe":{"coordinates":"50.075814,20.029566","is_ex":"Yes","can_be_ex":"Yes","districts":["nowa-huta"],"notes":"Zgłoszone przez LucasKumiega"},
+"Syrenka":{"coordinates":"50.075814,20.029566","is_ex":"Yes","can_be_ex":"Yes","districts":["nowa-huta"],"notes":"Zgłoszone przez LucasKumiega"},
 "Nowy Placyk":{"coordinates":"50.088436,20.016851","is_ex":"Yes","can_be_ex":"Yes","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
 "Stół Ping-Pongowy przy ulicy Popielidów":{"coordinates":"50.098433,20.016109","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
 "Fort Piechoty Twierdzy Kraków":{"coordinates":"50.092768,20.039851","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
@@ -1301,7 +1321,7 @@
 "Stół Ping-Pongowy Os. Na Wzgórzach":{"coordinates":"50.098557,20.06206","is_ex":"No","can_be_ex":"No","districts":["nowa-huta"],"notes":"Zgłoszone przez zwinkavin"},
 "Dům s lodí":{"coordinates":"50.053764,19.943766","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
 "Krzyż Znak":{"coordinates":"50.049009,19.936408","is_ex":"Yes","can_be_ex":"Yes","districts":["dębniki"],"notes":"Zgłoszone przez ketoor/BorysIvanowicz"},
-"Boisko Sportowe":{"coordinates":"50.07765,20.055128","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
+"Boisko Sportowe":{"coordinates":"50.07765,20.055128","is_ex":"No","can_be_ex":"No","districts":["nowa-huta"],"notes":"Zgłoszone przez LucasKumiega"},
 "Globe at Cracow Main Train Station":{"coordinates":"50.068352,19.947165","is_ex":"No","can_be_ex":"No","districts":["centrum"],"notes":"Zgłoszone przez MrMirkwood"},
 "Rampa":{"coordinates":"50.066806,20.041966","is_ex":"Yes","can_be_ex":"Yes","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
 "Street Art Ku Pamięci":{"coordinates":"50.092705,19.97443","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
@@ -1316,8 +1336,8 @@
 "Kraków - Kapliczka":{"coordinates":"50.083065,19.971633","is_ex":"No","can_be_ex":"No","districts":["olsza"],"notes":"Zgłoszone przez GardzeEXPem"},
 "Plac Zabaw Lubostron Szwai 1":{"coordinates":"50.01584,19.895192","is_ex":"Yes","can_be_ex":"Yes","districts":["ruczaj"],"notes":"Zgłoszone przez Pepe999541"},
 "Plac Zabaw na 2 Pułku Lotniczego":{"coordinates":"50.076985,20.00609","is_ex":"Yes","can_be_ex":"Yes","districts":["czyżyny"],"notes":"Zgłoszone przez LucasKumiega"},
-"Plac Zabaw Przy Ulicy Adama Próchnika":{"coordinates":"50.101237,20.007048","is_ex":"No","can_be_ex":"No","districts":["nowa-huta"],"notes":"Zgłoszone przez LucasKumiega"},
-"Children House":{"coordinates":"50.070789,20.033463","is_ex":"No","can_be_ex":"No","districts":["nowa-huta"],"notes":"Zgłoszone przez LucasKumiega"},
+"Plac Zabaw Przy Ulicy Adama Próchnika":{"coordinates":"50.101237,20.007048","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
+"Children House":{"coordinates":"50.070789,20.033463","is_ex":"Yes","can_be_ex":"Yes","districts":["nowa-huta"],"notes":"Zgłoszone przez LucasKumiega"},
 "Poczta Beskidzka":{"coordinates":"50.015906,19.950629","is_ex":"No","can_be_ex":"No","districts":["łagiewniki-borek"],"notes":"Zgłoszone przez ham1solo"},
 "Dworek Z Wieza":{"coordinates":"50.050588,19.917917","is_ex":"No","can_be_ex":"No","districts":["dębniki"],"notes":"Zgłoszone przez BorysIvanowicz"},
 "Zakon Sióstr":{"coordinates":"50.061309,19.962445","is_ex":"No","can_be_ex":"No","districts":["grzegórzki"],"notes":"Zgłoszone przez CurtieChan"},
@@ -1329,9 +1349,17 @@
 "Kościół Polskokatolicki":{"coordinates":"50.083521,19.968562","is_ex":"No","can_be_ex":"No","districts":["olsza"],"notes":"Zgłoszone przez GardzeEXPem"},
 "Ogród Prehistoryczny":{"coordinates":"50.093692,20.056469","is_ex":"No","can_be_ex":"No","districts":["nowa-huta"],"notes":"Zgłoszone przez Michal221288"},
 "Graffity Wall NH Kombatantow 1D Krakow":{"coordinates":"50.090778,20.007133","is_ex":"No","can_be_ex":"No","districts":["mistrzejowice"],"notes":"Zgłoszone przez LucasKumiega"},
-"Stolik Strategów, 2 Płk Lotnjczego":{"coordinates":"50.07497,20.011694","is_ex":"Yes","can_be_ex":"Yes","districts":["czyżyny"],"notes":"Zgłoszone przez LucasKumiega"},
+"Stolik Strategów, 2 Płk Lotniczego":{"coordinates":"50.07497,20.011694","is_ex":"Yes","can_be_ex":"Yes","districts":["czyżyny"],"notes":"Zgłoszone przez LucasKumiega"},
 "Mural Pod Ziemia - Hot Spot":{"coordinates":"50.073076,20.016752","is_ex":"No","can_be_ex":"No","districts":["czyżyny"],"notes":"Zgłoszone przez Michal221288"},
-"Galeria Kraków Plaza":{"coordinates":"50.064181,19.983864","is_ex":"No","can_be_ex":"No","districts":["grzegórzki"],"notes":"Zgłoszone przez LucasKumiega"}
+"Galeria Kraków Plaza":{"coordinates":"50.064181,19.983864","is_ex":"No","can_be_ex":"No","districts":["grzegórzki"],"notes":"Zgłoszone przez LucasKumiega"},
+"Basen AGH":{"coordinates":"50.068756,19.901541","is_ex":"No","can_be_ex":"No","districts":["bronowice","łobzów"]},
+"Warta Mural":{"coordinates":"50.090803,19.928801","is_ex":"No","can_be_ex":"No","districts":["krowodrza"]},
+"Stacja Rowerowa - Narzymskiego II":{"coordinates":"50.073496,19.965832","is_ex":"No","can_be_ex":"No","districts":["olsza"]},
+"Topole Szafera":{"coordinates":"50.065739,19.957961","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
+"Witraż kaplicy w hospicjum":{"coordinates":"50.084846,20.031692","is_ex":"No","can_be_ex":"No","districts":["nowa-huta"]},
+"Ku Wiecznej Chwale":{"coordinates":"50.03466,19.974466","is_ex":"No","can_be_ex":"No","districts":["bieżanów-prokocim"],"notes":"Zgłoszone przez MrMirkwood"},
+"Urząd Pocztowy Kraków 31":{"coordinates":"50.08173,20.004913","is_ex":"No","can_be_ex":"No","districts":["czyżyny"]},
+"Boiska Do Koszykówki":{"coordinates":"50.089262,19.965622","is_ex":"No","can_be_ex":"No","districts":["olsza"]}
 },
 "393378906788331520":{
 "Sue Ryder":{"coordinates":"54.5082019,18.5437417","is_ex":"Yes","can_be_ex":"Yes","districts":["centrum"]},
