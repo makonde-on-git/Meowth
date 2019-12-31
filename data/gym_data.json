@@ -300,9 +300,7 @@
 "Mur Art":{"coordinates":"50.072482,20.047587","is_ex":"No","can_be_ex":"No","districts":["nowa-huta"]},
 "Mural Alien":{"coordinates":"50.035596,19.966041","is_ex":"No","can_be_ex":"No","districts":["podgórze-duchackie"]},
 "Mural Kwiaciarnia":{"coordinates":"50.086382,20.008658","is_ex":"No","can_be_ex":"No","districts":["czyżyny","mistrzejowice"]},
-"""Mural Nowa Huta Rekin"":{""coordinates"":""50.085019,20.008911"",""is_ex"":""Yes
-"",""can_be_ex"":""Yes
-"",""districts"":[""czyżyny""]},"
+"Mural Nowa Huta Rekin":{"coordinates":"50.085019,20.008911","is_ex":"Yes","can_be_ex":"Yes","districts":["czyżyny"]},
 "Skrzydło Lotnicze":{"coordinates":"50.073718,19.989117","is_ex":"No","can_be_ex":"No","districts":["czyżyny"]},
 "Mural Pajak":{"coordinates":"50.079958,20.013049","is_ex":"No","can_be_ex":"No","districts":["czyżyny"]},
 "Mural Schody Ruchome":{"coordinates":"50.066478,19.94847","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
@@ -361,9 +359,7 @@
 "Plac Zabaw Przy ul. Siewnej":{"coordinates":"50.091995,19.956151","is_ex":"Yes","can_be_ex":"Yes","districts":["prądnik"]},
 "Plac Zabaw Raciborska":{"coordinates":"50.020544,19.903951","is_ex":"Yes","can_be_ex":"Yes","districts":["ruczaj"]},
 "Place Zabaw":{"coordinates":"50.011267,20.017034","is_ex":"No","can_be_ex":"No","districts":["bieżanów-prokocim"]},
-"""Plac Zabaw Os. Kościuszkowskie"":{""coordinates"":""50.083005,20.012997"",""is_ex"":""Yes
-"",""can_be_ex"":""Yes
-"",""districts"":[""czyżyny""]},"
+"Plac Zabaw Os. Kościuszkowskie":{"coordinates":"50.083005,20.012997","is_ex":"Yes","can_be_ex":"Yes","districts":["czyżyny"]},
 "Playground (koło Nowosądeckiej)":{"coordinates":"50.017883,19.97261","is_ex":"Yes","can_be_ex":"Yes","districts":["podgórze-duchackie"]},
 "Playground in Park Jerzmanowskich":{"coordinates":"50.017765,19.994669","is_ex":"Yes","can_be_ex":"Yes","districts":["bieżanów-prokocim"]},
 "Płaskorzeźba Kobiety":{"coordinates":"50.068108,19.929005","is_ex":"No","can_be_ex":"No","districts":["centrum"],"notes":"Włości Makonde"},
@@ -981,9 +977,7 @@
 "Mur Art":{"coordinates":"50.072482,20.047587","is_ex":"No","can_be_ex":"No","districts":["nowa-huta"]},
 "Mural Alien":{"coordinates":"50.035596,19.966041","is_ex":"No","can_be_ex":"No","districts":["podgórze-duchackie"]},
 "Mural Kwiaciarnia":{"coordinates":"50.086382,20.008658","is_ex":"No","can_be_ex":"No","districts":["czyżyny","mistrzejowice"]},
-"""Mural Nowa Huta Rekin"":{""coordinates"":""50.085019,20.008911"",""is_ex"":""Yes
-"",""can_be_ex"":""Yes
-"",""districts"":[""czyżyny""]},"
+"Mural Nowa Huta Rekin":{"coordinates":"50.085019,20.008911","is_ex":"Yes","can_be_ex":"Yes","districts":["czyżyny"]},
 "Skrzydło Lotnicze":{"coordinates":"50.073718,19.989117","is_ex":"No","can_be_ex":"No","districts":["czyżyny"]},
 "Mural Pajak":{"coordinates":"50.079958,20.013049","is_ex":"No","can_be_ex":"No","districts":["czyżyny"]},
 "Mural Schody Ruchome":{"coordinates":"50.066478,19.94847","is_ex":"No","can_be_ex":"No","districts":["centrum"]},
@@ -1042,9 +1036,7 @@
 "Plac Zabaw Przy ul. Siewnej":{"coordinates":"50.091995,19.956151","is_ex":"Yes","can_be_ex":"Yes","districts":["prądnik"]},
 "Plac Zabaw Raciborska":{"coordinates":"50.020544,19.903951","is_ex":"Yes","can_be_ex":"Yes","districts":["ruczaj"]},
 "Place Zabaw":{"coordinates":"50.011267,20.017034","is_ex":"No","can_be_ex":"No","districts":["bieżanów-prokocim"]},
-"""Plac Zabaw Os. Kościuszkowskie"":{""coordinates"":""50.083005,20.012997"",""is_ex"":""Yes
-"",""can_be_ex"":""Yes
-"",""districts"":[""czyżyny""]},"
+"Plac Zabaw Os. Kościuszkowskie":{"coordinates":"50.083005,20.012997","is_ex":"Yes","can_be_ex":"Yes","districts":["czyżyny"]},
 "Playground (koło Nowosądeckiej)":{"coordinates":"50.017883,19.97261","is_ex":"Yes","can_be_ex":"Yes","districts":["podgórze-duchackie"]},
 "Playground in Park Jerzmanowskich":{"coordinates":"50.017765,19.994669","is_ex":"Yes","can_be_ex":"Yes","districts":["bieżanów-prokocim"]},
 "Płaskorzeźba Kobiety":{"coordinates":"50.068108,19.929005","is_ex":"No","can_be_ex":"No","districts":["centrum"],"notes":"Włości Makonde"},
